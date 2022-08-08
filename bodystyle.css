@@ -1,0 +1,108 @@
+
+
+.img2{
+    display: grid;
+    grid-template-columns: 1fr;
+    background: url(Resources/images/ydxvbvaedj3anhyx-0_0_desktop_0_1X.webp);
+    background-size: 180%;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: center;
+}
+.img3{
+    display: grid;
+    grid-template-columns: 1fr;
+    background: url(Resources/images/foxkkzyesji5rjax-0_0_desktop_1X.webp);
+    background-size: 160%;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: center;
+}
+.grid1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 600px;
+    background-color: white;
+    grid-gap: 25px;
+    margin-bottom: 20px;
+    
+}
+.img4{
+    display: grid;
+
+   background: url(Resources/images/fvhyvd3jp7yxlasi-0_0_desktop_1X.jpg);
+   background-position: center;
+}
+.img5{
+    display: grid;
+   background: url(Resources/images/fvhyvd3jp7yxlasi-1_0_desktop_1X.webp);
+    background-position: center;
+}
+.zen{
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.vivo{
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 600px;
+    background-color: white;
+    grid-gap: 25px;
+    margin-bottom: 20px;
+    
+}
+.img6{
+    display: grid;
+   background: url(Resources/images/fvhyvd3jp7yxlasi-2_0_desktop_1X.webp);
+   background-position: center;
+}
+.img7{
+    display: grid;
+   background: url(Resources/images/TUF\ BLACK.webp);
+    background-position: center;
+}
+.rog{
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.tuf{
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.grid1 .learnmore{
+    margin-left: 280px;
+    margin-top: -240px;
+
+}
+.grid1 .learnmore {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+}
+.grid1 .learnmore :hover{
+    text-decoration-line: underline;
+    background-color: blue;
+}
+
+.grid2 .learnmore{
+    margin-left: 280px;
+    margin-top: -240px;
+
+}
+.grid2 .learnmore{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+}
+.grid2 .learnmore :hover{
+   text-decoration: underline;
+}
+
